@@ -56,12 +56,12 @@ This is a Quiz App built using Spring Boot, designed to manage quizzes and quest
    ### User Endpoints
    
    - View questions of a quiz (options only, not correct answer)
-      Method : GET
-      EndPoint : http://localhost:8080/quiz/get/{id}
+     - Method : GET
+     - EndPoint : http://localhost:8080/quiz/get/{id}
 
    - Submit quiz and receive score
-      Method : POST 
-      EndPoint : http://localhost:8080/quiz/submit/{id} 
+     - Method : POST 
+     - EndPoint : http://localhost:8080/quiz/submit/{id} 
  
 ## Summary Of Project
 
