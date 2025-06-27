@@ -28,28 +28,28 @@ This is a Quiz App built using Spring Boot, designed to manage quizzes and quest
   ### Admin Endpoints 
 
    - Add a new question
-      Method : POST
-      EndPoint : http://localhost:8080/question/add 
+     - Method : POST
+     - EndPoint : http://localhost:8080/question/add 
 
    - Get all questions 
-      Method : GET 
-      EndPoint : http://localhost:8080/question/allQuestions  
+     - Method : GET 
+     - EndPoint : http://localhost:8080/question/allQuestions  
 
    - Update a question by ID
-      Method : PUT    
-      EndPoint :  http://localhost:8080/question/update/{id}  
+     - Method : PUT    
+     - EndPoint :  http://localhost:8080/question/update/{id}  
 
    - Delete a question by ID
-      Method : DELETE
-      EndPoint : http://localhost:8080/question/delete/{id}
+     - Method : DELETE
+     - EndPoint : http://localhost:8080/question/delete/{id}
 
    - Create a new quiz 
-      Method : POST
-      EndPoint : http://localhost:8080/quiz/create?category=java&numQ=5&title=JQuiz
+     - Method : POST
+     - EndPoint : http://localhost:8080/quiz/create?category=java&numQ=5&title=JQuiz
 
    - Get all quizzes
-      Method : GET 
-      EndPoint : http://localhost:8080/quiz/get/{id}
+     - Method : GET 
+     - EndPoint : http://localhost:8080/quiz/get/{id}
 
 
     
