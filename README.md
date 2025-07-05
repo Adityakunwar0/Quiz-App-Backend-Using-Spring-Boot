@@ -75,6 +75,9 @@ This is a Quiz App built using Spring Boot, designed to manage quizzes and quest
        User receives score.
 
 
+## Author
+### Aditya Kunwar
+Full Stack Developer | Passionate about building scalable and intelligent web apps
 
 
 
